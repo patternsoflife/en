@@ -1,0 +1,28 @@
+# Configuration for https://www.patternsoflife.nl/en/
+title: Patterns of Life
+baseurl: "/en"
+url: "https://www.patternsoflife.nl"
+
+# Build settings
+markdown: kramdown
+remote_theme: patternsoflife/pages-theme
+
+# Whether to show excerpts on the homepage
+show_excerpts: false
+
+# Minima theme settings
+minima:
+
+  # See https://shopify.github.io/liquid/filters/date/
+  date_format: "%b %-d, %Y"
+
+# Pages to show in header
+header_pages:
+ - about.md
+ - news.md
+ - people.md
+ - publications.md
+
+# Paths to exclude from processing
+exclude:
+  - README.md
