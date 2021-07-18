@@ -15,4 +15,4 @@ translate:
 
 The Patterns of Life project aims to study and develop new forms of
 diagnostic and prognostic cocreation between clients and professionals in the
-field of mental health care. [Read more…]({% link about.md %})
+field of mental health care. [Read more…](/en/about/)
