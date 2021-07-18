@@ -20,12 +20,14 @@ range of newly formulated questions. These were designed to be less
 stigmatising, while also being more suitable to transdiagnostic analysis, in
 comparison to existing psychiatric diagnostic instruments.
 
-User data from these designs will be analysed by the Mark van der Gaag Research
-Centre, at [Parnassia Groep] and [Vrije Universiteit Amsterdam], in order to
+User data from these designs will be analysed by the
+[Mark van der Gaag Research Centre], at [Parnassia Groep] and
+[Vrije Universiteit Amsterdam], in order to
 establish a scientific basis for future research and clinical practice.
 
 [Parnassia Groep]: https://www.parnassiagroep.nl
 [Redesigning Psychiatry]: https://www.redesigningpsychiatry.org
 [PsyQ]: https://www.psyq.nl/
 [Label A]: https://www.labela.nl/
+[Mark van der Gaag Research Centre]: https://mrcresearch.nl/
 [Vrije Universiteit Amsterdam]: https://vu.nl/en/
