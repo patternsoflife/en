@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+translation:
+  nl: /over/
 ---
 
 Patterns of Life is a research and development project by [Parnassia Groep] and
