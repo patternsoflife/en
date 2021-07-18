@@ -6,6 +6,9 @@ url: "https://www.patternsoflife.nl"
 # Build settings
 markdown: kramdown
 remote_theme: patternsoflife/pages-theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Whether to show excerpts on the homepage
 show_excerpts: false
