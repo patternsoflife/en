@@ -9,7 +9,7 @@ banner:
   title: "The new paradigm<br> in mental health is<br> focused on patterns."
   blurb: "We are working towards a science that helps people identify and modify the interacting patterns that underly, and sometimes undermine, their lives."
   video: simplified3
-  translation:
+  translate:
     nl: "/"
 ---
 

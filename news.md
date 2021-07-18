@@ -2,6 +2,6 @@
 layout: news
 title: News
 permalink: /news/
-translation:
+translate:
   nl: /nieuws/
 ---

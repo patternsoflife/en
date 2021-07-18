@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-translation:
+translate:
   nl: /over/
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-translation:
+translate:
   nl: /publicaties/
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-translation:
+translate:
   nl: /mensen/
 ---
 
