@@ -8,4 +8,4 @@ translate:
 Femke is designer at [Redesigning Psychiatry], where she works on various
 projects in the domain of mental health.
 
-[Redesigining Psychiatry]: https://www.redesiginingpsychiatry.org/
+[Redesigning Psychiatry]: https://www.redesiginingpsychiatry.org/
