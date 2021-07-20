@@ -23,7 +23,7 @@ minima:
 header_pages:
  - about.md
  - news.md
- - people.md
+ - team.md
  - publications.md
 
 # Paths to exclude from processing
