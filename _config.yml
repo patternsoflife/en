@@ -29,3 +29,11 @@ header_pages:
 # Paths to exclude from processing
 exclude:
   - README.md
+
+# See https://jekyllrb.com/docs/collections/
+collections:
+
+  # Team members
+  team:
+    output: true
+    permalink: /team/:name
