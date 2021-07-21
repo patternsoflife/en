@@ -1,5 +1,5 @@
 ---
-name: Femke de Boer
+full_name: Femke de Boer
 role: strategic designer
 layout: team_member
 translate:
