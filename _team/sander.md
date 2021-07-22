@@ -1,16 +1,16 @@
 ---
-full_name: Eddo Velders
-role: innovation manager
+full_name: Sander Voerman
+role: member role
 layout: team_member
 social_links:
-  # twitter: jekyllrb
-  # github:  jekyll
+  twitter: jekyllrb
+  github:  jekyll
   # devto: jekyll
   # dribbble: jekyll
-  # facebook: jekyll
+  facebook: jekyll
   # flickr:   jekyll
   # instagram: jekyll
-  linkedin: eddovelders
+  linkedin: jekyll
   # pinterest: jekyll
   # youtube: jekyll
   # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -35,10 +35,6 @@ social_links:
   #   instance: example.com
 
 translate:
-  nl: /team/eddo
+  nl: /team/sander
 ---
-Eddo initiates and guides various innovation projects at [Parnassia Groep],
-helping to create the organisation for Parnassia in 2030.
-One of those projects is *Patterns of Life*.
-
-[Parnassia Groep]: https://www.parnassiagroep.nl/
+Member description.
