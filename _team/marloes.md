@@ -1,16 +1,16 @@
 ---
 full_name: Marloes Verhaar
-role: member role
+role: clinical psychologist
 layout: team_member
 social_links:
-  twitter: jekyllrb
-  github:  jekyll
+  # twitter: jekyllrb
+  # github:  jekyll
   # devto: jekyll
   # dribbble: jekyll
-  facebook: jekyll
+  # facebook: jekyll
   # flickr:   jekyll
   # instagram: jekyll
-  linkedin: jekyll
+  linkedin: marloes-verhaar-944b4728
   # pinterest: jekyll
   # youtube: jekyll
   # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -37,4 +37,7 @@ social_links:
 translate:
   nl: /team/marloes
 ---
-Member description.
+Marloes is a clinical psychologist at [Parnassia Groep], care manager at PsyQ [Early Detection and Intervention Team], and trainer of new psychologists. Working at multiple sections inside PG, she came to see the similarities between all the people in the different sections. She concluded dividing alle the people in different segments does not match the way in which the human mind works. That is why she became project leader of the *Patterns of Life* team.
+
+[Early Detection and Intervention Team]: https://www.topggz.nl/afdeling/psyq-edit
+[Parnassia Groep]: https://www.parnassiagroep.nl/

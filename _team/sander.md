@@ -1,40 +1,16 @@
 ---
 full_name: Sander Voerman
-role: member role
+role: philosopher
 layout: team_member
 social_links:
-  twitter: jekyllrb
-  github:  jekyll
-  # devto: jekyll
-  # dribbble: jekyll
-  facebook: jekyll
-  # flickr:   jekyll
-  # instagram: jekyll
-  linkedin: jekyll
-  # pinterest: jekyll
-  # youtube: jekyll
-  # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-  # youtube_channel_name: CloudCannon
-  # telegram: jekyll
-  # googleplus: +jekyll
-  # microdotblog: jekyll
-  # keybase: jekyll
-
-  # Mastodon instances
-  # mastodon:
-  # - username: jekyll
-  #   instance: example.com
-  # - username: jekyll2
-  #   instance: example.com
-
-  # GitLab instances
-  # gitlab:
-  # - username: jekyll
-  #   instance: example.com
-  # - username: jekyll2
-  #   instance: example.com
+  github: sandervoerman
+  linkedin: savoerman
 
 translate:
   nl: /team/sander
 ---
-Member description.
+Sander is the philosopher of [Redesigning Psychiatry], but has many other roles as well. 
+He asks critical questions and he always wants to know more. Also at the 
+*Patterns of Life* project, he continuously switching between thinking in abstract and concrete matter. 
+
+[Redesigning Psychiatry]: https://www.redesigningpsychiatry.org/
