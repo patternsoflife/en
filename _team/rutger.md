@@ -37,6 +37,6 @@ social_links:
 translate:
   nl: /team/rutger
 ---
-Rutger is a psychiatrist at [Parnassia Groep], and he also gives lectures and speeches about networktheorie and trans-diagnostic thinking. Besides, he is co-founde of the *Patterns of Life* project.
+Rutger is a psychiatrist at [Parnassia Groep]. He has published about network theory and transdiagnostic approaches to mental health. He is co-founder of the *Patterns of Life* project.
 
 [Parnassia Groep]: https://www.parnassiagroep.nl/
