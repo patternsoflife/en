@@ -9,8 +9,7 @@ social_links:
 translate:
   nl: /team/sander
 ---
-Sander is the philosopher of [Redesigning Psychiatry], but has many other roles as well. 
-He asks critical questions and he always wants to know more. Also at the 
-*Patterns of Life* project, he continuously switching between thinking in abstract and concrete matter. 
+Sander works as a philosopher at [Redesigning Psychiatry]. His areas of research within the 
+*Patterns of Life* project include conceptual analysis, medical ethics, and data design. 
 
 [Redesigning Psychiatry]: https://www.redesigningpsychiatry.org/
