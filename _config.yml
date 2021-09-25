@@ -24,7 +24,7 @@ header_pages:
  - about.md
  - news.md
  - team.md
- - publications.md
+ - research.md
 
 # Paths to exclude from processing
 exclude:
